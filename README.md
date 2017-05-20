@@ -1,15 +1,15 @@
 # Hello-DohaR-20170519
 
-Here are the revised discussion slides in PDF format from our meeting yesterday.  Key changes include:
+Here are the revised discussion slides in PDF format.  Key changes include:
   - New links to answer the question "Which map projection is best?"
-  - A new slide on map visualizations: basic insights with links on how to interface R with Java tools for web delivery
-  - Corrections to content erros found during the meeting
-  - Updated all R code syntax highlighting to better reflect standard code highlights in RStudio
+  - A new slide on map visualizations: basic insights plus links on how to interface R maps with Java tools for web delivery
+  - Corrections to content errors found during the meeting
+  - Updated R code syntax highlighting to better reflect standard code highlights in RStudio
 
-I also included here the R code for the "case study." Download the R script files and the zip file with supporting data.  Completing the case study is exercise is simple and straightforward:
+I also included here the R code for the "case study." Download the R script files and the zip file with supporting data.  Completing the case study exercise is simple and straightforward:
 - Unzip and store the data files in you preferred directory
 - Source Configure.R
-- Update CaseStudy.R with your preferred data path location and source the file
+- Update CaseStudy.R with your preferred data path location 
+- Source CaseStudy.R
 
-A good day to you!
-
+It was a pleasure to meet you.  Feel free to stay in touch.  Collaboration in R is always welcome.
