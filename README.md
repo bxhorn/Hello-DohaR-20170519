@@ -6,10 +6,10 @@ Here are the revised discussion slides in PDF format from our meeting yesterday.
   - Corrections to content erros found during the meeting
   - Updated all R code syntax highlighting to better reflect standard code highlights in RStudio
 
-I also included here the R code for the "case study." Download the R script files and the zip file with supporting data.  To complete the case study is exercise is simple and straightforward:
-- Unzip and store in you preferred directory
+I also included here the R code for the "case study." Download the R script files and the zip file with supporting data.  Completing the case study is exercise is simple and straightforward:
+- Unzip and store the data files in you preferred directory
 - Source Configure.R
-- Update CaseStudy.R with your data path location and source the file
+- Update CaseStudy.R with your preferred data path location and source the file
 
 A good day to you!
 
