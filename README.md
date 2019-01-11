@@ -1,6 +1,6 @@
 # Hello-DohaR-20170519
 
-Here is the material from our Doha R meeting.
+Here is the material I presented at our Doha R meeting.
 
 Given the broad input of others, Ive revised the discussion slides in PDF format.  Key changes include:
   - Corrections to content errors found during the meeting
